@@ -1,0 +1,15 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+
+# Node
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Entorno (nunca subir los .env reales)
+.env
+.env.local
