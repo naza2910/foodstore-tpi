@@ -13,3 +13,7 @@ dist/
 # Entorno (nunca subir los .env reales)
 .env
 .env.local
+
+# Preparación local del video
+.vscode/
+preparar_video.*

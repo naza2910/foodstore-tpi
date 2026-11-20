@@ -3,8 +3,8 @@
 Aplicación web de pedidos de comida: los clientes se registran, recorren el catálogo, arman un carrito y confirman pedidos con dirección y forma de pago; el negocio administra categorías, productos, stock, pedidos y usuarios desde un panel.
 
 - **Alumno:** Nazareno Romero — Tecnicatura Universitaria en Programación a Distancia (UTN)
-- **Repositorio público:** https://github.com/TU-USUARIO/foodstore-tpi   ⟵ _reemplazar por la URL real_
-- **Video de demostración:** https://youtu.be/PENDIENTE   ⟵ _reemplazar por el link público_
+- **Repositorio público:** https://github.com/naza2910/foodstore-tpi
+- **Video de demostración:** https://youtu.be/Y_gC8npbKwE
 
 | Usuario admin del seed | Contraseña |
 |---|---|

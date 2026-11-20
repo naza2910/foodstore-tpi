@@ -1,0 +1,6 @@
+# Permite el script de instalación de esbuild (lo usa Vite).
+# allowBuilds: pnpm 11 o superior · onlyBuiltDependencies: pnpm 10
+allowBuilds:
+  esbuild: true
+onlyBuiltDependencies:
+  - esbuild
